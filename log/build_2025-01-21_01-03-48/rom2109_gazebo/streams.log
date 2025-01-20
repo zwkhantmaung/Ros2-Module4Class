@@ -1,0 +1,46 @@
+[0.015s] Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo -- -j8 -l8
+[0.054s] Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo -- -j8 -l8
+[0.084s] Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo
+[0.092s] -- Install configuration: ""
+[0.092s] -- Execute custom install script
+[0.093s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//config/ekf.yaml
+[0.093s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//config/gazebo_params.yaml
+[0.093s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//config/my_ekf.yaml
+[0.093s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//config/twist_mux.yaml
+[0.093s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//config/twist_mux_race.yaml
+[0.094s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/controller_spawner.launch.py
+[0.094s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/ekf.launch.py
+[0.094s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/rom2109_sim_ros2_control.launch.py
+[0.094s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/simulation.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/simulation_race.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/test_code_style.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/test_rom2109_bot_gazebo.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/test_rom2109_sim_ros2_control_delayed.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//launch/test_rom2109_tall_gazebo.launch.py
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//rviz2/display.rviz
+[0.095s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//rviz2/nav2_default_view.rviz
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//rviz2/nav2_namespaced_view.rviz
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//rviz2/odom_fix.rviz
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//rviz2/slam.rviz
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/balls.world
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/f1_race.world
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/one.world
+[0.096s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/rom_maze_1.world
+[0.097s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/rom_maze_4.world
+[0.097s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo//worlds/single_square.world
+[0.097s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/ament_index/resource_index/package_run_dependencies/rom2109_gazebo
+[0.098s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/ament_index/resource_index/parent_prefix_path/rom2109_gazebo
+[0.098s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/environment/ament_prefix_path.sh
+[0.098s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/environment/ament_prefix_path.dsv
+[0.099s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/environment/path.sh
+[0.099s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/environment/path.dsv
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/local_setup.bash
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/local_setup.sh
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/local_setup.zsh
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/local_setup.dsv
+[0.101s] -- Symlinking: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/package.dsv
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/ament_index/resource_index/packages/rom2109_gazebo
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/cmake/rom2109_gazeboConfig.cmake
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/cmake/rom2109_gazeboConfig-version.cmake
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_gazebo/share/rom2109_gazebo/package.xml
+[0.109s] Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo

@@ -1,0 +1,1 @@
+/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_gazebo/ament_cmake_environment_hooks/local_setup.zsh

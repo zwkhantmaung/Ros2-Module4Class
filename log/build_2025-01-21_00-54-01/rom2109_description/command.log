@@ -1,0 +1,6 @@
+Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description': /usr/bin/cmake /home/zkm/ros/ros2/Ros2-Module4Class/src/rom2109_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description
+Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description' returned '0': /usr/bin/cmake /home/zkm/ros/ros2/Ros2-Module4Class/src/rom2109_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description
+Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description': /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description -- -j8 -l8
+Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description' returned '0': /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description -- -j8 -l8
+Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description': /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description
+Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description' returned '0': /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description

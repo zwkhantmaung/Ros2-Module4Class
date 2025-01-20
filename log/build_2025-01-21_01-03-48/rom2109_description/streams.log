@@ -1,0 +1,72 @@
+[0.019s] Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description -- -j8 -l8
+[0.059s] Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description -- -j8 -l8
+[0.091s] Invoking command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description
+[0.098s] -- Install configuration: ""
+[0.099s] -- Execute custom install script
+[0.099s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/config/my_controllers.yaml
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/launch/description.launch.py
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/launch/description_ros2_control.launch.py
+[0.100s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/launch/rviz.launch.py
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/camera.xacro
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/camera3d.xacro
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/common_properties.urdf.xacro
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/lidar.xacro
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/lidarbot.urdf
+[0.101s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_bot.urdf
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_bot_gazebo.urdf
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_bot_gazebo11.urdf
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_short.urdf
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_short_gazebo.urdf
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_tall.config
+[0.102s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_tall.sdf
+[0.103s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_tall.urdf
+[0.103s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/raw/rom2109_tall_gazebo.urdf
+[0.103s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/robot.urdf
+[0.104s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/robot_sim_ros2_control.urdf.xacro
+[0.104s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/rom2109_core.xacro
+[0.104s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/urdf/sim_ros2_control.xacro
+[0.105s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/base_link.STL
+[0.105s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/base_link.STL
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/frame_link.STL
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/left_wheel.STL
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/right_wheel.STL
+[0.106s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/rp_lidar.STL
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/bot/wifi.STL
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/camera.STL
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/left_wheel.STL
+[0.107s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/lidar.STL
+[0.108s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/plate1.STL
+[0.108s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/plate2.STL
+[0.108s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/plate3.STL
+[0.108s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/right_wheel.STL
+[0.108s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/base_link.STL
+[0.109s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/camera.STL
+[0.109s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/left_wheel.STL
+[0.109s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/lidar.STL
+[0.109s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/plate1.STL
+[0.109s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/short/right_wheel.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/base_link.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/camera.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/left_wheel.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/lidar.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/plate1.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/plate2.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/plate3.STL
+[0.110s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/meshes/tall/right_wheel.STL
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/rviz2/display.rviz
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/ament_index/resource_index/package_run_dependencies/rom2109_description
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/ament_index/resource_index/parent_prefix_path/rom2109_description
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/environment/ament_prefix_path.sh
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/environment/ament_prefix_path.dsv
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/environment/path.sh
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/environment/path.dsv
+[0.111s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/local_setup.bash
+[0.112s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/local_setup.sh
+[0.112s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/local_setup.zsh
+[0.112s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/local_setup.dsv
+[0.112s] -- Symlinking: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/package.dsv
+[0.121s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/ament_index/resource_index/packages/rom2109_description
+[0.121s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/cmake/rom2109_descriptionConfig.cmake
+[0.121s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/cmake/rom2109_descriptionConfig-version.cmake
+[0.121s] -- Up-to-date symlink: /home/zkm/ros/ros2/Ros2-Module4Class/install/rom2109_description/share/rom2109_description/package.xml
+[0.132s] Invoked command in '/home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/zkm/ros/ros2/Ros2-Module4Class/build/rom2109_description
